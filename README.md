@@ -4,7 +4,7 @@ Introduce
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praymyk&layout=compact)](https://github.com/praymyk/github-readme-stats)
 <pre>
 안녕하세요! Back-end 개발자 취업을 준비하고있는 정윤석입니다. <br>
-Spring 위주로 웹페이지 구현을 연습하고 실습한 프로젝트들을 정리해보는 공간을 마련해보았습니다.
+Spring 위주로 웹페이지 구현을 연습하고 실습한 프로젝트들을 정리하는 공간을 마련했습니다.
 간단한 기능 구현을 시작으로 꾸준히 개발 영역을 확장해 나가는 것이 최종 목표이며
 프로젝트의 진행 목표와 구현내용, 느낀점을 기록하는 여정 시작!
 </pre>
