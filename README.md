@@ -2,12 +2,12 @@ Introduce
 =============
 [![praymyk's github stats](https://github-readme-stats.vercel.app/api?username=praymyk)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praymyk&layout=compact)](https://github.com/praymyk/github-readme-stats)
-<pre>
-안녕하세요! Back-end 개발자 취업을 준비하고있는 정윤석입니다. <br>
-Spring 위주로 웹페이지 구현을 연습하고 실습한 프로젝트들을 정리하는 공간을 마련했습니다.
-간단한 기능 구현을 시작으로 내가 원하는 기능을 구현할수 있도록 스킬을 확장해 나가는 것이 목표이며
-각 프로젝트의 진행 목표와 구현내용, 느낀점을 기록하는 여정을 시작합니다!
-</pre>
+<p>
+<li> 안녕하세요! 백엔드 개발자 준비생 정윤석입니다. </li>
+<li> 게임 QA/CS 관련직종에 종사하다가, 지금은 개발이라는 분야에 매력을 느껴 해당 분야로 업종변경을 위해 노력 중입니다. </li>
+<li> 시작이 늦은 만큼 Spring 프로젝트 위주로 개발 스킬을 늘릴수 있도록 Git에 꾸준히 발자취를 남기는 방향으로 노력중입니다. </li>
+<li> 각 프로젝트의 진행 목표와 구현내용, 느낀점을 기록해서 생각을 정리해서 좀더 간결한 Code를 작성하고 이해하고자 합니다. </li>
+</p>
 
 ## 🔨 Skill
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
