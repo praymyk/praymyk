@@ -3,11 +3,8 @@ Introduce
 [![praymyk's github stats](https://github-readme-stats.vercel.app/api?username=praymyk)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praymyk&layout=compact)](https://github.com/praymyk/github-readme-stats)
 <p>
-<li> 안녕하세요! 단것을 매우 좋아하는 백엔드 개발자 준비생 정윤석입니다. </li>
-<li> 게임 QA/CS 관련직종에 종사하다가, 지금은 개발이라는 분야에 매력을 느껴 해당 분야로 업종변경을 위해 노력 중입니다. </li>
-<li> 시작이 늦은 만큼 개발 스킬을 늘릴수 있도록 Git에 꾸준히 기능 구현 페이지와 자체 프로젝트를 작성하는 방향으로 공부하고있습니다. </li>
-<li> 각 프로젝트의 진행 목표와 구현내용, 느낀점을 기록해서 생각을 정리해서 좀더 간결한 Code를 작성하고 이해하고자 합니다. </li>
-<li> 여가시간을 활용해 구현하고 싶었던, 구현하고 싶은 기능으로 홈페이지를 제작해볼 생각입니다.</li>
+<li> 안녕하세요! 단것을 매우 좋아하는 개발자 정윤석입니다. </li>
+<li> 열심히하자... </li>
 </p>
 
 ## 🔨 Skill
